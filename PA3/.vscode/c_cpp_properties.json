@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "name": "GCC",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:\\Program Files\\IBM\\ILOG\\CPLEX_Studio2211\\cplex\\include",
+        "C:\\Program Files\\IBM\\ILOG\\CPLEX_Studio2211\\concert\\include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "windowsSdkVersion": "10.0.22000.0",
+      "compilerPath": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++11",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
